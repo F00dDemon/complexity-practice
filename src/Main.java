@@ -51,11 +51,11 @@ public class Main {
   }
 
   // The time complexity is:
-  // YOUR ANSWER HERE
+  // O(n) n = length of nums param.
   public static void describeProduct(int[] nums) {
-    System.out.println("About to compute the product of the array...");
+    //IGNORE System.out.println("About to compute the product of the array...");
     int product = computeProduct(nums);
-    System.out.println("The product I found was " + product);
+    //IGNORE System.out.println("The product I found was " + product);
   }
 
 
