@@ -134,7 +134,7 @@ public class Main {
     }
   }
   // The time complexity is:
-  // YOUR ANSWER HERE
+  // O(n) n => (a + b) /2
   public static double computeAverage(double a, double b) {
     return (a + b) / 2.0;
   }
